@@ -2,7 +2,7 @@
 ASKFILE=$1
 CUR_DIR=$PWD
 IFS='
-'
+' 
 echo -e "File list $CUR_DIR:\n"
 
 i=0

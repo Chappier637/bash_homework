@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 if [ -f input.txt ]; then
     echo "File input.txt found. Contents:"
     cat input.txt
